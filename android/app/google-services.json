@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799779020711",
+    "project_id": "degdeg-ceb1d",
+    "storage_bucket": "degdeg-ceb1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799779020711:android:86e69601b9685f28406082",
+        "android_client_info": {
+          "package_name": "com.degdeg.exchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs0oFu_xg9IKIpZZWVrZzY0Q8m9ALWTKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
